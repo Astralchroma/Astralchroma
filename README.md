@@ -1,6 +1,6 @@
 Hey, I'm Astralchroma.
 
-Writer of questionable quality of Rust code, and former Lead Developer of [Horizon's End](https://horizonsend.net). Currently working on a Minecraft inspired Sci-Fi Space Exploration / Survival game written in Rust called [Solarscape](https://solarscape.astralchroma.dev/).
+Writer of questionable quality Rust code, and former Lead Developer of [Horizon's End](https://horizonsend.net). Currently working on a Minecraft inspired Sci-Fi Space Exploration / Survival game written in Rust called [Solarscape](https://solarscape.astralchroma.dev/).
 
 Honestly not sure what else to put here. lol
 
