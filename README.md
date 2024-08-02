@@ -1,1 +1,3 @@
-[GitHub's capacity for formatting is limited, you can find a much more interesting profile here!](https://astralchroma.dev)
+Sci-Fi loving developer of various miscellaneous personal projects. Former Lead Developer and Administrator for Horizon's End.
+
+You can find a more complete profile on my website: https://astralchroma.dev/
